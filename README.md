@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2F194010093&psig=AOvVaw0z96VDJ_BSh58PKlPkcBwv&ust=1717421283036000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjV0ICDvYYDFQAAAAAdAAAAABAK)]
 
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">A passionate blockchain developer from Pakistan</h3>
