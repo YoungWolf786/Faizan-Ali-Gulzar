@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>this is a simple wallet</p>
+
+    <form action="/wallet" method="POST">
+
+        <div>
+            <label>Amount:</label>
+            <input type="number" class="form-control" placeholder="Amount to send" name="amount" required>
+        </div>
+
+        
+        <div>
+            <label>Recipient Adress:</label>
+            <input type="text" class="form-control" name="senderAddress" required>
+        </div>
+
+        
+        <div>
+            <label>Sender Adress:</label>
+            <input type="text" class="form-control" name="Recipientaddress" required>
+        </div>
+
+        <button type="submit" class="button">SUBMIT</button>
+
+    </form>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        .button{
+            margin-top: 25px;
+            cursor: pointer;
+        }
+        .form-control{
+            margin-top: 15px;
+        }
+    </style>
+</body>
+</html>
